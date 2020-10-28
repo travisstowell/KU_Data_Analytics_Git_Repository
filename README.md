@@ -1,2 +1,2 @@
-# KU_Data_Analytics_Git_Repository
+# excel_challenge
 Repository to submit homework for KU Analytics Class Homework
